@@ -1,7 +1,7 @@
 # Axiom-to-Excelsior
 
 ## Check out the game here: 
-https://c9nguyen.github.io/Axion-to-Excelsior/
+https://vinhdesail.github.io/Axion-to-Excelsior/
 
 An HTML Javascript game inspired by Clash Royal and Tower Defense. 
 
